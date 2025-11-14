@@ -2,7 +2,9 @@
 
 ### Lead Software Engineer • 13+ Years Experience • Bangladesh
 
-I am a passionate **Lead Software Engineer** with over **13years of experience** in designing, developing, and scaling high-quality software solutions. I specialize in **React, Next.js, Node.js, Express.js, MySQL**, and modern JavaScript ecosystems.  
+I am a passionate **Lead Software Engineer** with over **13 years of experience** in designing, developing, and scaling high-quality software solutions.
+
+I specialize in **React, Next.js, Node.js, Express.js, MySQL**, and modern JavaScript ecosystems.  
 My journey includes building large-scale applications, leading engineering teams, and delivering products used by millions.
 
 ---
@@ -15,6 +17,16 @@ My journey includes building large-scale applications, leading engineering teams
 - 🧑‍🏫 Strong experience in **team leadership**, code reviews, mentoring, and aligning engineering with business goals.  
 - 🛠 Passionate about solving real-world problems through clean and efficient technology.
 
+---
+
+## 💼 Career History
+-----------------------------------------------------------------------------------------
+| Period       | Position                            | Company                            |
+|--------------|-------------------------------------|------------------------------------|
+| 2023 – Present | Lead Software Engineer            | Arogga Ltd., Bangladesh            |
+| 2019– 2023   | Principal Software Engineer / Lead | BJIT Limited, Bangladesh           
+| 2016 – 2019  | Senior Software Engineer            |  Doodle i Inc, Banglalion  
+| 2013 – 2016  | Software Engineer                   | SSIT SOLUTION 
 ---
 
 ## 💡 What I Do
@@ -64,18 +76,14 @@ My journey includes building large-scale applications, leading engineering teams
 
 ---
 
-
-
 ## 📬 Contact Me
 
-- 📧 **Email:** sujanitbd@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-sujan/ 
-- 🌐 **Portfolio:** https://github.com/sujanprodhan
+- 📧 **Email:** sujanitbd@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-sujan/  
+- 🌐 **Portfolio:** https://github.com/sujanprodhan  
 
 ---
 
-## ⭐ If you like my work
+## ⭐ If you like my work  
 Feel free to ⭐ star my repositories and connect with me!
-
----
 
