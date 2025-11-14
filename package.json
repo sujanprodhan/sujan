@@ -2,7 +2,7 @@
   "name": "sujan-portfolio",
   "private": true,
   "version": "1.0",
-  "homepage": "https://sujanprodhan.github.io/",
+  "homepage": "https://sujanprodhan.github.io/sujan/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.2.0",
