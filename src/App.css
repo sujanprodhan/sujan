@@ -1,0 +1,166 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  scroll-behavior: smooth;
+}
+
+
+/* Navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  z-index: 100;
+}
+
+.navbar-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.menu a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s;
+}
+
+.menu a:hover {
+  color: #007BFF;
+}
+
+/* Mobile Menu Button */
+.mobile-menu-btn {
+  display: none;
+}
+
+.mobile-menu-btn button {
+  font-size: 24px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* Mobile Menu */
+.mobile-menu {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  text-align: center;
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.mobile-menu a {
+  padding: 10px 0;
+  text-decoration: none;
+  color: #333;
+}
+
+.mobile-menu a:hover {
+  color: #007BFF;
+}
+
+.section {
+  width: 100%; /* full width */
+  min-height: 100vh;
+  padding: 100px 20px 60px; /* top/bottom + horizontal padding */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid #eee;
+  background: #f9f9f9;
+  box-sizing: border-box;
+}
+
+.section:nth-child(even) {
+  background: #fff;
+}
+
+.section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.section-content {
+  max-width: 800px;
+  text-align: center;
+  color: #555;
+}
+
+ul {
+  text-align: left;
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.portfolio-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.portfolio-item {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  width: 300px;
+  transition: all 0.3s ease;
+}
+
+.portfolio-item:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.portfolio-item h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.portfolio-item p {
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.portfolio-item a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+.portfolio-item a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .desktop-menu {
+    display: none;
+  }
+  .mobile-menu-btn {
+    display: block;
+  }
+  .portfolio-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+}

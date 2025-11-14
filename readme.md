@@ -55,7 +55,9 @@ My journey includes building large-scale applications, leading engineering teams
 - JavaScript, TypeScript  
 - React, Next.js  
 - Node.js, Express.js  
-- PHP (Laravel), MySQL  
+- PHP8, PHP ( CodeIgniter, CakePHP, Symfony, Laravel, Wordpress )
+- MySQL, MSSQL, MongoDB, GraphQL
+- CSS3, Tailwind CSS, Bootstrap, SCSS
 
 ### **Tools & Platforms**
 - Git, GitHub, Docker  
